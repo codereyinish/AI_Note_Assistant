@@ -8,4 +8,4 @@ dependencies:
   - pip : 
     - notebook==7.2.1
     - openai==1.35.3
-prefix: /Users/manishbista/anaconda3/envs/note_env
+
