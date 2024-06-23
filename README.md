@@ -56,7 +56,16 @@
 
 ## 📍 Overview
 
-The AI Note Assistant project aims to enhance user interactions with OpenAI through document reading and tailored responses. By configuring vector stores, enabling file uploads, and implementing file search capabilities, the assistant provides concise answers based on document context. It offers a tutor-like experience by integrating semantic search, document chunking, and conversational threads, ensuring an enriching knowledge retrieval process. AI Note Assistants core value lies in seamlessly accessing and utilizing AI models within a controlled environment, facilitating efficient information retrieval and response generation.
+***Motivation***
+
+Frustrated with generic AI responses, I created AI Note Assistant. It lets you upload notes directly into the system, where the model reads and analyzes them to provide accurate, context-specific answers. This approach saves time and boosts productivity by delivering tailored responses based on your documents.
+
+***Objective***
+
+
+AI Note Assistant enhances user interactions by utilizing the OpenAI Assistant API to read through uploaded files and provide tailored responses instead of generic ones. It offers a tutor-like experience, ensuring efficient information retrieval and response generation.
+
+
 
 ---
 
@@ -68,12 +77,8 @@ The AI Note Assistant project aims to enhance user interactions with OpenAI thro
 | 🔩 | **Code Quality**  | The codebase maintains a good level of quality with consistent style and adherence to best practices for Python development. It emphasizes readability, maintainability, and separation of concerns. |
 | 📄 | **Documentation** | The project offers extensive documentation covering setup, usage, and inner workings of the AI Note Assistant. It provides clear explanations and examples, aiding developers in understanding and extending the functionality. |
 | 🔌 | **Integrations**  | Key integrations include Python, JupyterLab, and OpenAI for enabling seamless execution and interaction with AI models. External dependencies are managed efficiently for enhanced functionality. |
-| 🧩 | **Modularity**    | The codebase is designed with modularity in mind, allowing for easy extension and reuse of components. It promotes separation of concerns and encapsulation for better maintainability and scalability. |
-| 🧪 | **Testing**       | Testing frameworks and tools are not explicitly mentioned in the project details. Consider integrating testing tools for ensuring code reliability and stability across releases. |
 | ⚡️  | **Performance**   | The project focuses on efficiency in interactions with the OpenAI assistant, aiming for fast responses and minimal resource usage. Performance optimizations are crucial for enhancing user experience and scalability. |
-| 🛡️ | **Security**      | Data protection measures and access control mechanisms are not explicitly discussed. Ensure sensitive information handling and secure communication channels for maintaining user privacy and integrity. |
 | 📦 | **Dependencies**  | Key external libraries and dependencies include `py`, `ipynb`, `yml`, `jupyternotebook`, `python`, and `yaml` for various functionalities and integrations within the project. Dependency management is vital for smooth operation and compatibility. |
-| 🚀 | **Scalability**   | The project's design and architecture should support scalability through efficient resource utilization, optimized algorithms, and potential clustering or load balancing strategies. Scalability is essential for handling increased workload and user traffic. |
 
 ---
 
