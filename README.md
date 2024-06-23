@@ -34,25 +34,25 @@
 	<img src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI">
 </p>
 
-
 <br><!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary><br>
-
+	
 - [📍 Overview](#-overview)
-- [🧩 Features](#-features)
-- [🗂️ Repository Structure](#️-repository-structure)
-- [📦 Modules](#-modules)
+- [📦 Features](#-features)
+- [📂 Repository Structure](#-repository-structure)
+- [🧩 Modules](#-modules)
 - [🚀 Getting Started](#-getting-started)
-  - [⚙️ Installation](#️-installation)
-  - [🤖 Usage](#-usage)
+  - [⚙️ Install](#-install)
+  - [► Using mlops-course](#-using-mlops-course)
   - [🧪 Tests](#-tests)
 - [🛠 Project Roadmap](#-project-roadmap)
 - [🤝 Contributing](#-contributing)
-- [🎗 License](#-license)
-- [🔗 Acknowledgments](#-acknowledgments)
+- [📄 License](#-license)
+- [👏 Acknowledgments](#-acknowledgments)
 </details>
 <hr>
+
 
 ## 📍 Overview
 
