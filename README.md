@@ -244,7 +244,7 @@ Contributions are welcome! Here are several ways you can contribute:
 
 ## 🎗 License
 
-This project is protected under the [MIT-License](LICENSE).
+[MIT-License](LICENSE)
 
 ---
 
