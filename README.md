@@ -133,7 +133,7 @@ AI Note Assistant enhances user interactions by utilizing the OpenAI Assistant A
 > ![conda](https://img.shields.io/badge/Anaconda-44A833.svg?style=flat&logo=Anaconda&logoColor=white)
 >
 >```bash
->conda env create -f environment.yml
+>conda env create -f Note_Environment.yml
 > ```
 
 
@@ -162,6 +162,10 @@ AI Note Assistant enhances user interactions by utilizing the OpenAI Assistant A
 > $ jupyter nbconvert --execute notebook.ipynb
 > ```
 
+> Run AI_Note_Assistant using the command below:
+> ```console
+> $ python Note_Assistant.py
+> ```
 ### 🧪 Tests
 
 > Run the test suite using the command below:
