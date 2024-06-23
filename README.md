@@ -245,9 +245,9 @@ Contributions are welcome! Here are several ways you can contribute:
 
 ---
 
-## 🔗 Acknowledgments
+## 👏 Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+- <a href="https://github.com/ShawhinT"  style="text-decoration: none;"> ShawinT </a>
 
 [**Return**](#-overview)
 
