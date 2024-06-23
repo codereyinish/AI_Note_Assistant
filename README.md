@@ -171,11 +171,29 @@ AI Note Assistant enhances user interactions by utilizing the OpenAI Assistant A
 
 ---
 
-## 🛠 Project Roadmap
+### 🚧 Limitations and Future Plans of Project 
 
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
+####  Limitations 🛑
+1. **💸Cost of OpenAI API**: Utilizing the OpenAI Assistant API can become expensive, particularly if scaling the application. This cost consideration is important for long-term sustainability.
+   
+2. **📈Scalability Issues**: Integrating the AI Note Assistant into a website or scaling it for broader use may pose challenges due to resource demands and performance considerations.
+
+3. **🤖 Potential for Generic Responses**: While ChatGPT effectively references notebook content for responses, the answers might sometimes appear too similar or copy-pasted, lacking personalized engagement.
+
+#### Future Plans 🌱
+
+To address these limitations and enhance the AI Note Assistant, future improvements include:
+
+- **Fine-tuning Open Source LLMs**: Developing and integrating Open Source Language Model (LLM) solutions, which can offer cost-effective alternatives to proprietary APIs like OpenAI.
+  
+- **Enhanced Response Design**: Designing responses with a mix of components to avoid generic outputs:
+  - **ChatGPT Writing Fillip**: Injecting creative and engaging writing style cues into responses.
+  - **Notebook Content Retrieval**: Extracting specific and relevant information directly from uploaded documents.
+  - **Scraping Linked Resources**: Scraping supplementary information from linked resources to enrich responses.
+  - **Few-shot Learning Examples**: Incorporating few-shot learning examples to diversify writing styles and enhance context-specific responses.
+
+These improvements aim to not only reduce operational costs but also enrich user interactions by providing more dynamic and contextually relevant AI responses.
+
 
 ---
 
