@@ -60,6 +60,7 @@
 
 Frustrated with generic AI responses, I created AI Note Assistant. It lets you upload notes directly into the system, where the model reads and analyzes them to provide accurate, context-specific answers. This approach saves time and boosts productivity by delivering tailored responses based on your documents.
 
+
 ***Objective***
 
 
@@ -114,7 +115,10 @@ AI Note Assistant enhances user interactions by utilizing the OpenAI Assistant A
 
 **System Requirements:**
 
-* **JupyterNotebook**: `version x.y.z`
+* **Python**: 3.8+
+* **JupyterNotebook**
+* **Package manager/Container**: `conda`(Recommended), `pip`
+* **LLM service**: `OpenAI` (Recommended), `Google Gemini`
 
 ### ⚙️ Installation
 
