@@ -141,7 +141,7 @@ AI Note Assistant enhances user interactions by utilizing the OpenAI Assistant A
 
 >4. **Set up the OpenAI key**:
 >Obtain your OpenAI API key from [OpenAI](https://www.openai.com/). Create a file named `.env` in the project root directory and add:
->[Refer this](https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
+><a href="https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety" target ="_blank" style = "text-decoration: none">Refer this</a>
 >```env
 >OPENAI_API_KEY=your_openai_api_key
 >```
