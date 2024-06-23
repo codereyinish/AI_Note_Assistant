@@ -157,12 +157,12 @@ AI Note Assistant enhances user interactions by utilizing the OpenAI Assistant A
 
 <h4>From <code>source</code></h4>
 
-> Run AI_Note_Assistant using the command below:
+> Run AI_Note_Assistant using the Jupyter Notebook:
 > ```console
 > $ jupyter nbconvert --execute Note_Assistant.ipynb
 > ```
 
-> Run AI_Note_Assistant using the command below:
+> Run AI_Note_Assistant as Python Script:
 > ```console
 > $ python Note_Assistant.py
 > ```
