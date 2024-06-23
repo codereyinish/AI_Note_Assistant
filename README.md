@@ -122,23 +122,36 @@ AI Note Assistant enhances user interactions by utilizing the OpenAI Assistant A
 
 ### ⚙️ Installation
 
-<h4>From <code>source</code></h4>
+>1. **Clone the repository**:
+>```bash
+>git clone https://github.com/yourusername/ai-note-assistant.git
+> cd ai-note-assistant
+>```
 
-> 1. Clone the AI_Note_Assistant repository:
+>2. **Create the Conda environment**:
+
+> ![conda](https://img.shields.io/badge/Anaconda-44A833.svg?style=flat&logo=Anaconda&logoColor=white)
 >
-> ```console
-> $ git clone https://github.com/codereyinish/AI_Note_Assistant.git
+>```bash
+>conda env create -f environment.yml
 > ```
->
-> 2. Change to the project directory:
-> ```console
-> $ cd AI_Note_Assistant
-> ```
->
-> 3. Install the dependencies:
-> ```console
-> $ pip install -r requirements.txt
-> ```
+
+
+>3. **Activate the environment**:
+> ```bash
+> conda activate noteAssistant_env
+>    ```
+
+>4. **Set up the OpenAI key**:
+>Obtain your OpenAI API key from [OpenAI](https://www.openai.com/). Create a file named `.env` in the project root directory and add:
+>```env
+>OPENAI_API_KEY=your_openai_api_key
+>```
+
+
+
+
+
 
 ### 🤖 Usage
 
