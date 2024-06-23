@@ -124,8 +124,8 @@ AI Note Assistant enhances user interactions by utilizing the OpenAI Assistant A
 
 >1. **Clone the repository**:
 >```bash
->git clone https://github.com/yourusername/ai-note-assistant.git
-> cd ai-note-assistant
+>git clone https://github.com/codereyinish/AI_Note_Assistant.git
+> cd Ai-Note-Assistant
 >```
 
 >2. **Create the Conda environment**:
@@ -159,7 +159,7 @@ AI Note Assistant enhances user interactions by utilizing the OpenAI Assistant A
 
 > Run AI_Note_Assistant using the command below:
 > ```console
-> $ jupyter nbconvert --execute notebook.ipynb
+> $ jupyter nbconvert --execute Note_Assistant.ipynb
 > ```
 
 > Run AI_Note_Assistant using the command below:
@@ -168,10 +168,6 @@ AI Note Assistant enhances user interactions by utilizing the OpenAI Assistant A
 > ```
 ### 🧪 Tests
 
-> Run the test suite using the command below:
-> ```console
-> $ pytest notebook_test.py
-> ```
 
 ---
 
