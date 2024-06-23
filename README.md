@@ -9,10 +9,12 @@
     <em>Empower Your Notes with Intelligent Assistance!</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/codereyinish/AI_Note_Assistant?style=flat&logo=opensourceinitiative&logoColor=white&color=c125ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/codereyinish/AI_Note_Assistant?style=flat&logo=git&logoColor=white&color=c125ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/codereyinish/AI_Note_Assistant?style=flat&color=c125ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/codereyinish/AI_Note_Assistant?style=flat&color=c125ff" alt="repo-language-count">
+	<a href="https://opensource.org/license/mit/">
+		<img src="https://img.shields.io/github/license/codereyinish/AI_Note_Assistant?style=flat&logo=opensourceinitiative&logoColor=white&color=c125ff" alt="license">
+	</a>
 </p>
 <p align="center">
     <em>Developed with the software and tools below.</em>
