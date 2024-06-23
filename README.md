@@ -249,6 +249,9 @@ Contributions are welcome! Here are several ways you can contribute:
 
 - <a href="https://github.com/ShawhinT"  style="text-decoration: none;"> ShawinT </a>
 
-[**Return**](#-overview)
+<br>
+<p align="right">
+  <a href="#-overview"><b>Return</b></a>
+</p>
 
 ---
