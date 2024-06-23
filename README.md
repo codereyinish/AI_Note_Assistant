@@ -166,7 +166,7 @@ AI Note Assistant enhances user interactions by utilizing the OpenAI Assistant A
 > ```console
 > $ python Note_Assistant.py
 > ```
-### 🧪 Tests
+
 
 
 ---
