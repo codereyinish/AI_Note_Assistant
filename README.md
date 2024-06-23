@@ -1,11 +1,18 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" alt="project-logo">
+  <img src="https://img.icons8.com/?size=512&id=55494&format=png" width="99">
+  <img src="https://img.icons8.com/?size=512&id=kTuxVYRKeKEY&format=png" width="99">
 </p>
 <p align="center">
     <h1 align="center">AI_NOTE_ASSISTANT</h1>
 </p>
 <p align="center">
     <em>Empower Your Notes with Intelligent Assistance!</em>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/github/license/codereyinish/AI_Note_Assistant?style=flat&logo=opensourceinitiative&logoColor=white&color=c125ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/codereyinish/AI_Note_Assistant?style=flat&logo=git&logoColor=white&color=c125ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/codereyinish/AI_Note_Assistant?style=flat&color=c125ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/codereyinish/AI_Note_Assistant?style=flat&color=c125ff" alt="repo-language-count">
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/codereyinish/AI_Note_Assistant.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
