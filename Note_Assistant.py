@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # **Problem is  the OpenAI assistant continues to respond in its default style(reads more like something from ChatGPT ) rather than referring to the provided document and tailoring its responses accordingly.**
 
 # ## Knowledge Retrieval
