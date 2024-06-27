@@ -138,6 +138,14 @@ messages = client.beta.threads.messages.list(
 #Retrieve latest response 
 print(messages.data[0].content[0].text.value)
 
+#Delete the file from storage system
+client.files.delete(
+    file_id = message_file.id
+)
+
+#DELETE THE ASSISTANT AFTER USE
+client.beta.assistants.delete(assistant.id)
+
 
 # **YES YES AT least some improvement and I am glad this is reading the question well(going through the keywords) and picking up the content from the mass of the given content**
 # While it seems like it's just retrieving and pasting content, I don't think we can describe it as merely a "Ctrl F finder." Ultimately, it's all about refining the prompt. In this case, we should instruct ChatGPT to not only retrieve content but also to add a bit of its own commentary. It should blend the retrieved information with the original content and respond as if a tutor is addressing a student's queries. Additionally, we should include a few example responses to guide it
