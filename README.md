@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" alt="project-logo">
+  <img src="https://img.icons8.com/?size=512&id=55494&format=png" width="99">
+  <img src="https://img.icons8.com/?size=512&id=kTuxVYRKeKEY&format=png" width="99">
 </p>
 <p align="center">
     <h1 align="center">AI_NOTE_ASSISTANT</h1>
@@ -8,37 +9,61 @@
     <em>Empower Your Notes with Intelligent Assistance!</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/codereyinish/AI_Note_Assistant.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/codereyinish/AI_Note_Assistant.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/codereyinish/AI_Note_Assistant.git?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/codereyinish/AI_Note_Assistant.git?style=default&color=0080ff" alt="repo-language-count">
-<p>
-<p align="center">
-	<!-- default option, no dependency badges. -->
+	<img src="https://img.shields.io/github/last-commit/codereyinish/AI_Note_Assistant?style=flat&logo=git&logoColor=white&color=c125ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/codereyinish/AI_Note_Assistant?style=flat&color=c125ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/codereyinish/AI_Note_Assistant?style=flat&color=c125ff" alt="repo-language-count">
+	<a href="https://opensource.org/license/mit/">
+		<img src="https://img.shields.io/github/license/codereyinish/AI_Note_Assistant?style=flat&logo=opensourceinitiative&logoColor=white&color=c125ff" alt="license">
+	</a>
 </p>
+<p align="center">
+    <em>Developed with the software and tools below.</em>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter">
+	<img src="https://img.shields.io/badge/YAML-CB171E.svg?style=flat&logo=YAML&logoColor=white" alt="YAML">
+	<img src="https://img.shields.io/badge/conda-44A833.svg?style=flat&logo=conda&logoColor=white" alt="Conda">
+	<img src="https://img.shields.io/badge/pip-3775A9.svg?style=flat&logo=pypa&logoColor=white" alt="pip">
+	<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
+	<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=flat&logo=GNU-Bash&logoColor=white" alt="GNU Bash">
+	<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=GitHub-Actions&logoColor=white" alt="GitHub%20Actions">
+	<img src="https://img.shields.io/badge/OpenAI-1.35.3-412991.svg?style=flat&logo=OpenAI&logoColor=white" alt="OpenAI">
+	<br>
+	
 
 <br><!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary><br>
-
+	
 - [📍 Overview](#-overview)
-- [🧩 Features](#-features)
-- [🗂️ Repository Structure](#️-repository-structure)
-- [📦 Modules](#-modules)
+- [📦 Features](#-features)
+- [📂 Repository Structure](#-repository-structure)
+- [🧩 Modules](#-modules)
 - [🚀 Getting Started](#-getting-started)
-  - [⚙️ Installation](#️-installation)
-  - [🤖 Usage](#-usage)
+  - [⚙️ Install](#-install)
+  - [► Using mlops-course](#-using-mlops-course)
   - [🧪 Tests](#-tests)
 - [🛠 Project Roadmap](#-project-roadmap)
 - [🤝 Contributing](#-contributing)
-- [🎗 License](#-license)
-- [🔗 Acknowledgments](#-acknowledgments)
+- [📄 License](#-license)
+- [👏 Acknowledgments](#-acknowledgments)
 </details>
 <hr>
 
+
 ## 📍 Overview
 
-The AI Note Assistant project aims to enhance user interactions with OpenAI through document reading and tailored responses. By configuring vector stores, enabling file uploads, and implementing file search capabilities, the assistant provides concise answers based on document context. It offers a tutor-like experience by integrating semantic search, document chunking, and conversational threads, ensuring an enriching knowledge retrieval process. AI Note Assistants core value lies in seamlessly accessing and utilizing AI models within a controlled environment, facilitating efficient information retrieval and response generation.
+***Motivation***
+
+Frustrated with generic AI responses, I created AI Note Assistant. It lets you upload notes directly into the system, where the model reads and analyzes them to provide accurate, context-specific answers. This approach saves time and boosts productivity by delivering tailored responses based on your documents.
+
+
+***Objective***
+
+
+AI Note Assistant enhances user interactions by utilizing the OpenAI Assistant API to read through uploaded files and provide tailored responses instead of generic ones. It offers a tutor-like experience, ensuring efficient information retrieval and response generation.
+
+
 
 ---
 
@@ -50,12 +75,8 @@ The AI Note Assistant project aims to enhance user interactions with OpenAI thro
 | 🔩 | **Code Quality**  | The codebase maintains a good level of quality with consistent style and adherence to best practices for Python development. It emphasizes readability, maintainability, and separation of concerns. |
 | 📄 | **Documentation** | The project offers extensive documentation covering setup, usage, and inner workings of the AI Note Assistant. It provides clear explanations and examples, aiding developers in understanding and extending the functionality. |
 | 🔌 | **Integrations**  | Key integrations include Python, JupyterLab, and OpenAI for enabling seamless execution and interaction with AI models. External dependencies are managed efficiently for enhanced functionality. |
-| 🧩 | **Modularity**    | The codebase is designed with modularity in mind, allowing for easy extension and reuse of components. It promotes separation of concerns and encapsulation for better maintainability and scalability. |
-| 🧪 | **Testing**       | Testing frameworks and tools are not explicitly mentioned in the project details. Consider integrating testing tools for ensuring code reliability and stability across releases. |
 | ⚡️  | **Performance**   | The project focuses on efficiency in interactions with the OpenAI assistant, aiming for fast responses and minimal resource usage. Performance optimizations are crucial for enhancing user experience and scalability. |
-| 🛡️ | **Security**      | Data protection measures and access control mechanisms are not explicitly discussed. Ensure sensitive information handling and secure communication channels for maintaining user privacy and integrity. |
 | 📦 | **Dependencies**  | Key external libraries and dependencies include `py`, `ipynb`, `yml`, `jupyternotebook`, `python`, and `yaml` for various functionalities and integrations within the project. Dependency management is vital for smooth operation and compatibility. |
-| 🚀 | **Scalability**   | The project's design and architecture should support scalability through efficient resource utilization, optimized algorithms, and potential clustering or load balancing strategies. Scalability is essential for handling increased workload and user traffic. |
 
 ---
 
@@ -91,51 +112,86 @@ The AI Note Assistant project aims to enhance user interactions with OpenAI thro
 
 **System Requirements:**
 
-* **JupyterNotebook**: `version x.y.z`
+* **Python**: 3.8+
+* **JupyterNotebook**
+* **Package manager/Container**: `conda`(Recommended), `pip`
+* **LLM service**: `OpenAI` (Recommended), `Google Gemini`
 
 ### ⚙️ Installation
 
-<h4>From <code>source</code></h4>
+>1. **Clone the repository**:
+>```bash
+>git clone https://github.com/codereyinish/AI_Note_Assistant.git
+> cd Ai-Note-Assistant
+>```
 
-> 1. Clone the AI_Note_Assistant repository:
+>2. **Create the Conda environment**:
+
+> ![conda](https://img.shields.io/badge/Anaconda-44A833.svg?style=flat&logo=Anaconda&logoColor=white)
 >
-> ```console
-> $ git clone https://github.com/codereyinish/AI_Note_Assistant.git
+>```bash
+>conda env create -f Note_Environment.yml
 > ```
->
-> 2. Change to the project directory:
-> ```console
-> $ cd AI_Note_Assistant
-> ```
->
-> 3. Install the dependencies:
-> ```console
-> $ pip install -r requirements.txt
-> ```
+
+
+>3. **Activate the environment**:
+> ```bash
+> conda activate noteAssistant_env
+>    ```
+
+>4. **Set up the OpenAI key**:
+>Obtain your OpenAI API key from [OpenAI](https://www.openai.com/). Create a file named `.env` in the project root directory and add:
+><a href="https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety" target ="_blank" style = "text-decoration: none">Refer this</a>
+>```env
+>OPENAI_API_KEY=your_openai_api_key
+>```
+
+
+
+
+
 
 ### 🤖 Usage
 
 <h4>From <code>source</code></h4>
 
-> Run AI_Note_Assistant using the command below:
+> Run AI_Note_Assistant using the Jupyter Notebook:
 > ```console
-> $ jupyter nbconvert --execute notebook.ipynb
+> $ jupyter nbconvert --execute Note_Assistant.ipynb
 > ```
 
-### 🧪 Tests
-
-> Run the test suite using the command below:
+> Run AI_Note_Assistant as Python Script:
 > ```console
-> $ pytest notebook_test.py
+> $ python Note_Assistant.py
 > ```
+
+
 
 ---
 
-## 🛠 Project Roadmap
+### 🚧 Limitations and Future Plans of Project 
 
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
+####  Limitations 🛑
+1. **💸Cost of OpenAI API**: Utilizing the OpenAI Assistant API can become expensive, particularly if scaling the application. This cost consideration is important for long-term sustainability.
+   
+2. **📈Scalability Issues**: Integrating the AI Note Assistant into a website or scaling it for broader use may pose challenges due to resource demands and performance considerations.
+
+3. **🤖 Potential for Generic Responses**: While ChatGPT effectively references notebook content for responses, the answers might sometimes appear too similar or copy-pasted, lacking personalized engagement.
+
+#### Future Plans 🌱
+
+To address these limitations and enhance the AI Note Assistant, future improvements include:
+
+- **Fine-tuning Open Source LLMs**: Developing and integrating Open Source Language Model (LLM) solutions, which can offer cost-effective alternatives to proprietary APIs like OpenAI.
+  
+- **Enhanced Response Design**: Designing responses with a mix of components to avoid generic outputs:
+  - **ChatGPT Writing Fillip**: Injecting creative and engaging writing style cues into responses.
+  - **Notebook Content Retrieval**: Extracting specific and relevant information directly from uploaded documents.
+  - **Scraping Linked Resources**: Scraping supplementary information from linked resources to enrich responses.
+  - **Few-shot Learning Examples**: Incorporating few-shot learning examples to diversify writing styles and enhance context-specific responses.
+
+These improvements aim to not only reduce operational costs but also enrich user interactions by providing more dynamic and contextually relevant AI responses.
+
 
 ---
 
@@ -186,14 +242,17 @@ Contributions are welcome! Here are several ways you can contribute:
 
 ## 🎗 License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+[MIT-License](LICENSE)
 
 ---
 
-## 🔗 Acknowledgments
+## 👏 Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+- <a href="https://github.com/ShawhinT"  style="text-decoration: none;"> ShawinT </a>
 
-[**Return**](#-overview)
+<br>
+<p align="right">
+  <a href="#-overview"><b>Return</b></a>
+</p>
 
 ---
