@@ -41,7 +41,7 @@
 - [🧩 Modules](#-modules)
 - [🚀 Getting Started](#-getting-started)
   - [⚙️ Install](#-install)
-  - [ 🤖 Usage ](#-usage)
+  - [🤖 Usage ](#-usage)
 - [🚧 Limitations and Future](#-limitations-and-future-plans-of-project)
   - [Limitations 🛑](#-limitations)
   - [Future Plans 🌱](#-future-plans)
