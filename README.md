@@ -172,7 +172,7 @@ AI Note Assistant enhances user interactions by utilizing the OpenAI Assistant A
 
 ### 🚧 Limitations and Future Plans of Project 
 
-####  Limitations 🛑
+#### Limitations 🛑
 1. **💸Cost of OpenAI API**: Utilizing the OpenAI Assistant API can become expensive, particularly if scaling the application. This cost consideration is important for long-term sustainability.
    
 2. **📈Scalability Issues**: Integrating the AI Note Assistant into a website or scaling it for broader use may pose challenges due to resource demands and performance considerations.
